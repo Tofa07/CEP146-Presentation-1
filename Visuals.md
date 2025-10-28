@@ -1,7 +1,9 @@
 ## Visuals for Video Presentation - Tofa
 This file contains the link to my visuals created for the group video project.
 ## Canva Link
-You can view the visuals here: My Canva Presentation ([ai Tools.pdf](https://github.com/user-attachments/files/22918424/ai.Tools.pdf))
+You can view the visuals here: My Canva Presentation ([ai Tools.pdf](https://github.com/user-attachments/files/22918424/ai.Tools.pdf)).
+
+Edited a file using GitHub’s web interface to fix a small mistake.
 
 ## Visuals for Video Presentation - Victor
 this link for Intro & job displacemnet:
