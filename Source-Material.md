@@ -22,6 +22,7 @@ https://www.pcgamer.com/ai-generated-art-is-filling-steam-and-its-causing-qualit
 
 # 3. Ethical & Legal Concerns - Tofa
 AI tools that use online artwork without permission have caused copyright issues and backlash from artists. Developers risk legal trouble and losing trust if they use these tools irresponsibly.
+
 Bug Example: AI-generated art always avoids copyright issues (incorrect statement)
 ## Sources
 https://www.theartnewspaper.com/2024/08/15/us-artists-score-victory-in-landmark-ai-copyright-case
