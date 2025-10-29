@@ -9,8 +9,8 @@
 
 ### Exercise 2 – Git Bisect Bug Hunt (Simulation)
 
-For this exercise, I reviewed my GitHub commit history to simulate how `git bisect` finds the commit where a problem was introduced.  
+For this exercise, I reviewed my GitHub commit history to simulate how git bisect finds the commit where a problem was introduced.  
 The commit **“Introduced bug statement (for Git Bisect simulation)”** represented the version containing the issue.  
 By checking earlier commits, I could see when the correct text last appeared and where it changed.  
-This shows how `git bisect` can locate the exact commit that introduced an error without testing every version manually.
+This shows how git bisect can locate the exact commit that introduced an error without testing every version manually.
 
